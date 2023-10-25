@@ -221,9 +221,11 @@ if __name__ == "__main__":
 ![](c3.png)
 
 4. Ingresar los valores indicados para encender o apagar el led:
+
 Led de la Pico encendido (1):
  ![](c4.png)
  ![](c5.png)
+
 
 Led de la Pico apagado (0):
 ![](c6.png)
