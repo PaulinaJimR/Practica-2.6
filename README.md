@@ -222,14 +222,13 @@ if __name__ == "__main__":
 
 4. Ingresar los valores indicados para encender o apagar el led:
 
-Led de la Pico encendido (1):
+*Led de la Pico encendido (1):*
  ![](c4.png)
  ![](c5.png)
 
-
-Led de la Pico apagado (0):
+*Led de la Pico apagado (0):*
 ![](c6.png)
 ![](c7.png)
 
-Resultados en la terminal de Thonny
+_Resultados en la terminal de Thonny_
 ![](Captura de pantalla 2023-10-25 011914.png)
