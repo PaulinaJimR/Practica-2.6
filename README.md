@@ -233,4 +233,5 @@ if __name__ == "__main__":
 ![](c7.png)
 
 _Resultados en la terminal de Thonny_
+
 ![](fg.png)
